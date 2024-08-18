@@ -1,0 +1,23 @@
+sepecifaciton design pattern
+Service Locator
+Repoisitory design pattern
+Mediator
+Inversion of Control
+Dependency Injection constructor injection
+Aspect Oriented Programming
+Template Method
+Decorator Pattern
+factory/abstract factory
+adapter pattern
+Dry 
+solid expanded
+EXTENSıON METHOD
+KISS (Keep It Simple, Stupid)
+YAGNI (You Aren't Gonna Need It)
+Law of Demeter (LoD) / Principle of Least Knowledge
+Separation of Concerns (SoC)
+Composition Over Inheritance
+Test Driven Development
+Modular architecture
+
+maximum path sum in tree
