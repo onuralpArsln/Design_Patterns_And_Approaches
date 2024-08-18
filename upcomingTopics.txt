@@ -1,4 +1,6 @@
 sepecifaciton design pattern
+ardalis/specification
+
 Service Locator
 Repoisitory design pattern
 Mediator
